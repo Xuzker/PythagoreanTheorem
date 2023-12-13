@@ -1,0 +1,14 @@
+C:\Users\PC\Desktop\PythagoreanTheorem\PythagoreanTheorem\PythagoreanTheorem\bin\Debug\net7.0\PythagoreanTheorem.exe
+C:\Users\PC\Desktop\PythagoreanTheorem\PythagoreanTheorem\PythagoreanTheorem\bin\Debug\net7.0\PythagoreanTheorem.deps.json
+C:\Users\PC\Desktop\PythagoreanTheorem\PythagoreanTheorem\PythagoreanTheorem\bin\Debug\net7.0\PythagoreanTheorem.runtimeconfig.json
+C:\Users\PC\Desktop\PythagoreanTheorem\PythagoreanTheorem\PythagoreanTheorem\bin\Debug\net7.0\PythagoreanTheorem.dll
+C:\Users\PC\Desktop\PythagoreanTheorem\PythagoreanTheorem\PythagoreanTheorem\bin\Debug\net7.0\PythagoreanTheorem.pdb
+C:\Users\PC\Desktop\PythagoreanTheorem\PythagoreanTheorem\PythagoreanTheorem\obj\Debug\net7.0\PythagoreanTheorem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\PythagoreanTheorem\PythagoreanTheorem\PythagoreanTheorem\obj\Debug\net7.0\PythagoreanTheorem.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\PythagoreanTheorem\PythagoreanTheorem\PythagoreanTheorem\obj\Debug\net7.0\PythagoreanTheorem.AssemblyInfo.cs
+C:\Users\PC\Desktop\PythagoreanTheorem\PythagoreanTheorem\PythagoreanTheorem\obj\Debug\net7.0\PythagoreanTheorem.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\PythagoreanTheorem\PythagoreanTheorem\PythagoreanTheorem\obj\Debug\net7.0\PythagoreanTheorem.dll
+C:\Users\PC\Desktop\PythagoreanTheorem\PythagoreanTheorem\PythagoreanTheorem\obj\Debug\net7.0\refint\PythagoreanTheorem.dll
+C:\Users\PC\Desktop\PythagoreanTheorem\PythagoreanTheorem\PythagoreanTheorem\obj\Debug\net7.0\PythagoreanTheorem.pdb
+C:\Users\PC\Desktop\PythagoreanTheorem\PythagoreanTheorem\PythagoreanTheorem\obj\Debug\net7.0\PythagoreanTheorem.genruntimeconfig.cache
+C:\Users\PC\Desktop\PythagoreanTheorem\PythagoreanTheorem\PythagoreanTheorem\obj\Debug\net7.0\ref\PythagoreanTheorem.dll
