@@ -5,7 +5,7 @@ namespace Tests
         [Test]
         public void Test1()
         {
-            Assert.That(2 + 2, Is.EqualTo(9));
+            Assert.That(2 + 2, Is.EqualTo(4));
         }
 
         [Test]
